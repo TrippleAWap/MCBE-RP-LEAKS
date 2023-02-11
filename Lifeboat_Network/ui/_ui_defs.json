@@ -1,0 +1,10 @@
+{
+	"ui_defs": [
+		"ui/lifeboat/lb_custom_01.json",
+		"ui/lifeboat/lb_form_00.json",
+		"ui/lifeboat/lb_form_01.json",
+		"ui/lifeboat/lb_form_03.json",
+		"ui/lifeboat/lb_form_21.json",
+		"ui/lifeboat/lb_form_22.json"
+	]
+}

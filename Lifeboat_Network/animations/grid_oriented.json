@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","animations":{"animation.grid_oriented":{"loop":true,"override_previous_animation":true,"bones":{"all":{"rotation":[0,"-query.body_y_rotation + query.mark_variant * 45",0]}}}}}

@@ -1,0 +1,1 @@
+{"format_version":"1.8.0","render_controllers":{"controller.render.transformer":{"geometry":"query.mark_variant == 1 ? Geometry.robot : Geometry.default","materials":[{"*":"Material.default"}],"textures":["Texture.default"]}}}

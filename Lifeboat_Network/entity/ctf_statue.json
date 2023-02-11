@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:client_entity":{"description":{"identifier":"lifeboat:ctf_statue","materials":{"default":"alphatest"},"textures":{"default":"textures/entity/ctf_statue"},"geometry":{"default":"geometry.ctf_statue"},"scripts":{"scale":"1.00"},"render_controllers":["controller.render.default"]}}}

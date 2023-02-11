@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:client_entity":{"description":{"identifier":"lifeboat:ctf_flag","materials":{"default":"alphatest"},"textures":{"default":"textures/entity/ctf_flag"},"geometry":{"default":"geometry.ctf_flag"},"scripts":{"scale":"1.00","animate":["general"]},"render_controllers":["controller.render.default"]}}}

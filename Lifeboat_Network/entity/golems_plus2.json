@@ -1,0 +1,1 @@
+{"format_version":"1.10.0","minecraft:client_entity":{"description":{"identifier":"lifeboat:golems_plus2","materials":{"default":"alphatest"},"textures":{"default":"textures/entity/ice_golem"},"geometry":{"default":"geometry.irongolem"},"scripts":{"scale":"1.00"},"render_controllers":["controller.render.default"]}}}

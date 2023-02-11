@@ -1,0 +1,6 @@
+item.lifeboat:iron_hammer.name=Iron Hammer
+item.lifeboat:thors_hammer.name=Thors Hammer
+item.lifeboat:tnt_pickaxe.name=§4T§fN§4T§f Pickaxe
+item.lifeboat:sm_ender_backpack_item.name=Ender Backpack
+item.lifeboat:auto_sell_backpack_item.name=Auto Sell Backpack
+action.hint.exit.player=Press crouch to dismount

@@ -1,0 +1,1 @@
+{"format_version":"1.10","minecraft:item":{"description":{"identifier":"ps:auto_sell_backpack","category":"equipment"},"components":{"minecraft:max_stack_size":1,"minecraft:wearable":{"slot":"slot.armor.head"},"minecraft:icon":"lifeboat:auto_sell_backpack_hr","minecraft:render_offsets":"helmets"}}}
